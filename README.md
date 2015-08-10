@@ -16,8 +16,7 @@ Show what the library does as concisely as possible, developers should be able t
 This page was started as a way to host my projects for free. It was also created with an aim to be a personal site where my work can be displayed. The design and code behind it was got from the gh-pages automatic generator 
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
-#History
-TODO: Write history
+
 
 #Credits
 TODO: Write credits
